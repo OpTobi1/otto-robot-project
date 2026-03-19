@@ -1,8 +1,11 @@
-# otto-robot-project
-# Walking Toy Robot 🤖
+# Walking Toy Robot (רובוט צעצוע מהלך) 🤖
 
 This repository contains the source code and documentation for our high school final project in Electronics and Computers (2020). 
 The project is a bipedal walking robot inspired by the Otto DIY robot, capable of walking, avoiding obstacles, making sounds, and showing facial expressions.
+
+## Documentation 📄
+All detailed information regarding the project, including theoretical background, electrical schematics, block diagrams, and the full building process, can be found in the attached project book (Hebrew):
+[Book Two Legged Robot Full 11_05_2020.pdf](Book%20Two%20Legged%20Robot%20Full%2011_05_2020.pdf)
 
 ## Features
 * **Bipedal Walking:** Uses 4 servo motors for movement.
